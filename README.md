@@ -40,7 +40,13 @@ _Sporting Results Dataset Source:_
 #### Data Used in my MA Thesis:
 
 * [Coastline Lengths of Countries](https://www.citypopulation.de/en/world/bymap/coastlines/)
-
+* [Climate Data (World Bank)](https://climateknowledgeportal.worldbank.org/download-data)
+* [Democracy Index](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019)
+* [Elevation of Countries](https://www.atlasbig.com/en-us/countries-average-elevation)
+* [GDP Data](https://tradingeconomics.com/country-list/gdp)
+* [Population of Countries](https://www.worldometers.info/world-population/population-by-country/)
+* [Status of Women](https://giwps.georgetown.edu/the-index/)
+* [Countries at War](https://worldpopulationreview.com/country-rankings/countries-currently-at-war)
 
 
 ***
