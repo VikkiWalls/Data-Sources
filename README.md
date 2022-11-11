@@ -11,19 +11,19 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 ***
 ## GIS Data
 
-[Volcanoes on Earth 2021](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
-[World Map](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
-[UK Rivers](https://osdatahub.os.uk/downloads/open/OpenRivers)
-[Met Office UK Wind Speeds](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
-[Brazilian Amazon Rainforest Degradation 1999-2019](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
-[OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
-[USGS Satelite Data](https://earthexplorer.usgs.gov/)
+* [Volcanoes on Earth 2021](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
+* [World Map](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
+* [UK Rivers](https://osdatahub.os.uk/downloads/open/OpenRivers)
+* [Met Office UK Wind Speeds](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
+* [Brazilian Amazon Rainforest Degradation 1999-2019](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
+* [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
+* [USGS Satelite Data](https://earthexplorer.usgs.gov/)
 
 ***
 ## Space Data
 
-[The Astronomy Nexus](http://www.astronexus.com/hyg)
-[Messier Objects](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/processed/messier_ngc_processed.csv)
+* [The Astronomy Nexus](http://www.astronexus.com/hyg)
+* [Messier Objects](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/processed/messier_ngc_processed.csv)
 
 ***
 ## Biology Data
