@@ -29,8 +29,8 @@ _Corresponding Literature for Above Dataset:_
 _Specific Dataset I used:_
 [Does Geography Determine National Sporting Success](https://github.com/VikkiWalls/Data-Sources/blob/main/CSV%20Files/Does%20Geography%20Determine%20National%20Sporting%20Success.csv)
 
-_Jokl Method:_
-
+_Jokl Ranking Scores Explained:_
+[Jokl Method](https://github.com/VikkiWalls/Data-Sources/blob/main/Other%20Files/Jokl%20Ranking%20Score%20Explained.txt)
 
 _Sporting Results Dataset Source:_
 [Olymipic Results Databse](https://www.olympiandatabase.com/index.php?id=278979&L=1)
