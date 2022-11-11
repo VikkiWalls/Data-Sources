@@ -7,3 +7,6 @@ P=100×((1-log⁡x)/log⁡n )
 P= x/n = probability of achieving a rank equal to or better than x
 n = Number of Competitors
 x = Rank (ordinal placing of competitor)
+
+Reference:
+Jokl, E., Karvonen, M. and Kihlberg, J., 1956. Sports in The Cultural Pattern Of The World: A Study Of The 1952 Olympic Games At Helsinki. Helsinki: Institute of Occupational Health.
