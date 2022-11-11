@@ -39,8 +39,8 @@ _Sporting Results Dataset Source:_
 ## Geography Data
 #### Data Used in my MA Thesis:
 
-    * [Coastline Lengths of Countries](https://www.citypopulation.de/en/world/bymap/coastlines/)
-    
+* [Coastline Lengths of Countries](https://www.citypopulation.de/en/world/bymap/coastlines/)
+
 
 
 ***
