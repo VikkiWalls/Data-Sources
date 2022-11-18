@@ -58,6 +58,7 @@ _Sporting Results Dataset Source:_
 
 ***
 ## Geography Data
+* [Copernicus Emergency Management Service releases GloFAS v4.0 hydrological reanalysis](https://www.ecmwf.int/en/about/media-centre/news/2022/copernicus-emergency-management-service-releases-glofas-v40)
 #### Data Used in my MA Thesis:
 
 * [Coastline Lengths of Countries](https://www.citypopulation.de/en/world/bymap/coastlines/)
