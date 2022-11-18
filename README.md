@@ -7,7 +7,7 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 3. [Biology Data](#biology-data)
 4. [Sport Data](#sport-data)
 5. [Geography Data](#geography-data)
-6. [Useful Websites](#useful-websites)
+6. [Music Data](#music-data)
 ***
 ## GIS Data
 
@@ -70,6 +70,7 @@ _Sporting Results Dataset Source:_
 
 
 ***
-## Useful Websites
+## Music Data
 
-[Spotify Scraping](https://stevesie.com/apps/spotify-api/track-details-artists)
+* [Spotify Scraping](https://stevesie.com/apps/spotify-api/track-details-artists)
+* [Chart Success for Taylor Swift's "Red (Taylor's Version" Album](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
