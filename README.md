@@ -8,6 +8,7 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 4. [Sport Data](#sport-data)
 5. [Geography Data](#geography-data)
 6. [Music Data](#music-data)
+7. [Other Data Lists](#other-data-lists)
 ***
 ## GIS Data
 
@@ -70,9 +71,13 @@ _Sporting Results Dataset Source:_
 * [Status of Women](https://giwps.georgetown.edu/the-index/)
 * [Countries at War](https://worldpopulationreview.com/country-rankings/countries-currently-at-war)
 
-
 ***
 ## Music Data
 
 * [Spotify Scraping](https://stevesie.com/apps/spotify-api/track-details-artists)
 * [Chart Success for Taylor Swift's "Red (Taylor's Version" Album](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
+
+***
+## Other Data Lists
+
+* [Tidy Tuesday Database](https://github.com/rfordatascience/tidytuesday/tree/master/data)
