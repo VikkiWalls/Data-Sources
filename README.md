@@ -30,6 +30,7 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 ## Biology Data
 
 * [NE Scotland other invertebrate records 1800-2010](https://www.gbif.org/dataset/0a0d4ca1-5bfd-4594-9d51-40b972308bf5)
+* [The Global Tagging of Pelagic Predators Data Portal](https://mola.stanford.edu/NaturePaper/vr-index.php)
 ### Metabolomics
 
 * [Metabolomics Workbench](https://www.metabolomicsworkbench.org/data/browse.php)
