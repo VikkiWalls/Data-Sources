@@ -18,6 +18,7 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 * [Brazilian Amazon Rainforest Degradation 1999-2019](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 * [USGS Satelite Data](https://earthexplorer.usgs.gov/)
+* [National Centers for Environmental Information - Raster Data Extraction](https://www.ncei.noaa.gov/maps/grid-extract/)
 
 ***
 ## Space Data
@@ -27,6 +28,8 @@ All Data Sources I've found/used by category - feel free to use for your own pro
 
 ***
 ## Biology Data
+
+* [NE Scotland other invertebrate records 1800-2010](https://www.gbif.org/dataset/0a0d4ca1-5bfd-4594-9d51-40b972308bf5)
 ### Metabolomics
 #### Data Used in my MSc Thesis:
 _Specific Dataset I used:_
