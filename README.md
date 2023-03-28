@@ -76,6 +76,7 @@ _Sporting Results Dataset Source:_
 
 * [Spotify Scraping](https://stevesie.com/apps/spotify-api/track-details-artists)
 * [Chart Success for Taylor Swift's "Red (Taylor's Version" Album](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
+* [Dolly Parton Concert Venues (co-ordinates) 1972-2022](https://github.com/VikkiWalls/Data-Sources/blob/main/CSV%20Files/Dolly%20Parton%20Stage%20Visits%20to%202022.csv)
 
 ***
 ## Other Data Lists
